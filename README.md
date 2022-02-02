@@ -28,6 +28,7 @@
 ### Tools:
 <p align="left">
 <a href="https://liquibase.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/liquibase.svg" alt="Liquibase" width="40" height="40"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/kafka.svg" alt="Apache Kafka" width="40" height="40"/> </a> 
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/maven.svg" alt="Apache Maven" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"/> </a> 
 <a href="https://gitscm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
@@ -36,3 +37,11 @@
 <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/jenkins.svg" alt="Jenkins" width="40" height="40"/> </a> 
 </p>
+
+### GitHub languages stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriogatatarinov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seriogatatarinov&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seriogatatarinov&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seriogatatarinov&theme=github)
