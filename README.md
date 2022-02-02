@@ -13,11 +13,12 @@
 <a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
 </p>
 
-### Languages:
+### Languages & frameworks:
 <p align="left"> 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/java.svg" alt="Java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a> 
+<a href="https://vaadin.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/vaadin.svg" alt="Vaadin" width="40" height="40"/> </a>
 </p>
 
 ### Databases:
