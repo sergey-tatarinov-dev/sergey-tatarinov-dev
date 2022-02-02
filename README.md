@@ -9,8 +9,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/Telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
-<a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/Gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
+<a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
+<a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
 </p>
 
 ### Languages:
