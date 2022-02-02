@@ -9,17 +9,30 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/Telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
-<a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/Gmail.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
-
+<a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/Telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
+<a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/Gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
+</p>
 
 ### Languages:
 <p align="left"> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/spring.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/java.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
+</p>
+
+### Databases:
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+</p>
 
 ### Tools:
 <p align="left">
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"/> </a> 
-<a href="https://gitscm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/icons/main/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://liquibase.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/liquibase.svg" alt="Liquibase" width="40" height="40"/> </a> 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/maven.svg" alt="Apache Maven" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"/> </a> 
+<a href="https://gitscm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/openshift.svg" alt="OpenShift" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/docker.svg" alt="Docker" width="40" height="40"/> </a> 
+<a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/seriogatatarinov/seriogatatarinov/main/icons/jenkins.svg" alt="Jenkins" width="40" height="40"/> </a> 
+</p>
