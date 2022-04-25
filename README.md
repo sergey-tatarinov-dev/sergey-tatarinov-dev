@@ -12,31 +12,34 @@
 <a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
 <a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
 </p>
+<a href="https://github.com/sergey-tatarinov-dev/sergey-tatarinov-dev/blob/194062ef98299627c2cf6cce484dc2300c7fbe10/files/CV.pdf" target="_blank">
+    <p>See my CV</p>
+</a>
 
 ### Languages & frameworks:
 <p align="left"> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/java.svg" alt="Java" width="40" height="40"/></a> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/spring.svg" alt="Spring Framework" width="40" height="40"/></a> 
-<a href="https://vaadin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/vaadin.svg" alt="Vaadin" width="40" height="40"/></a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/java.svg" alt="Java" width="40" height="40"/></a> 
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/></a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/spring.svg" alt="Spring Framework" width="40" height="40"/></a> 
+    <a href="https://vaadin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/vaadin.svg" alt="Vaadin" width="40" height="40"/></a>
 </p>
 
 ### Databases:
 <p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/></a>
 </p>
 
 ### Tools:
 <p align="left">
-<a href="https://liquibase.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/liquibase.svg" alt="Liquibase" width="40" height="40"/></a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kafka.svg" alt="Apache Kafka" width="40" height="40"/></a> 
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/maven.svg" alt="Apache Maven" width="40" height="40"/></a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"/></a> 
-<a href="https://gitscm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/git.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/openshift.svg" alt="OpenShift" width="40" height="40"/></a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/docker.svg" alt="Docker" width="40" height="40"/></a> 
-<a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/jenkins.svg" alt="Jenkins" width="40" height="40"/></a> 
+    <a href="https://liquibase.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/liquibase.svg" alt="Liquibase" width="40" height="40"/></a> 
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kafka.svg" alt="Apache Kafka" width="40" height="40"/></a> 
+    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/maven.svg" alt="Apache Maven" width="40" height="40"/></a> 
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"/></a> 
+    <a href="https://gitscm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/git.svg" alt="git" width="40" height="40"/></a> 
+    <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/openshift.svg" alt="OpenShift" width="40" height="40"/></a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/docker.svg" alt="Docker" width="40" height="40"/></a> 
+    <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/jenkins.svg" alt="Jenkins" width="40" height="40"/></a> 
 </p>
 
 ### GitHub languages stats:
