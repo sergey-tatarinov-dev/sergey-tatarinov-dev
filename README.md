@@ -7,14 +7,15 @@
 
 </div>
 
+<a href="https://sergey-tatarinov-dev.github.io" target="_blank">
+    <p>See my CV</p>
+</a>
+
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/sergey_tatarinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/telegram.svg" alt="sergey_tatarinov" height="40" width="40"/></a>
 <a href="mailto:serhii.tatarinov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/sergey-tatarinov-dev/sergey-tatarinov-dev/main/icons/gmail.svg" alt="serhii.tatarinov@gmail.com" height="40" width="40"/></a>
 </p>
-<a href="https://github.com/sergey-tatarinov-dev/sergey-tatarinov-dev/blob/194062ef98299627c2cf6cce484dc2300c7fbe10/files/CV.pdf" target="_blank">
-    <p>See my CV</p>
-</a>
 
 ### Languages & frameworks:
 <p align="left"> 
