@@ -7,8 +7,9 @@
 
 </div>
 
+### See my cv:
 <a href="https://sergey-tatarinov-dev.github.io" target="_blank">
-    <p>See my CV</p>
+    <p>&#128279; Link</p>
 </a>
 
 ### Connect with me:
