@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sergey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Back-end developer with 4+ years of experience in Java development from Saint-Petersburg, Russia  🇷🇺 </h3>
+<h3 align="center">Back-end developer with 5+ years of experience in Java development from Saint-Petersburg, Russia  🇷🇺 </h3>
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergey-tatarinov-dev&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727)](https://git.io/streak-stats)
